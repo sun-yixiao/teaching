@@ -1,3 +1,3 @@
 ## Teaching
 
-This repository is dedicated to collecting the code I've written for students to implement various functions and is periodically updated. The directory below serves as a quick index to the content stored in this repository.
+This repository is designed to gather the code I wrote as a teaching assistant for students to implement various functions. The directory below is periodically updated to provide a quick index to the content stored in this repository.

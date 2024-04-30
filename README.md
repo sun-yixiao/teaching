@@ -10,4 +10,6 @@ This repository is designed to gather the code I wrote as a teaching assistant (
 
 - **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrated how to apply them when processing text data. Additionally, I also introduced two distinct approaches for preprocessing English and Chinese corpora. -> [_BoW_Tfidf_eng.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_eng.ipynb) for English corpora and [_BoW_Tfidf_chn.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_chn.ipynb) for Chinese corpora
 
+- **Color Analysis**: I replicated the research methodology of Tager et al. [(2021)](https://doi.org/10.1002/col.22638), demonstrating how to convert an RGB image into an HSV image based on the Munsell Color System and analyzing the proportion of specific color type pixels within the entire image. -> [Color_Analysis.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Color_Analysis.ipynb)
+
 - **Random Digit Search (RDS)**: Following the approach of Zhu et al. [(2011)](https://doi.org/10.1177/0894439310382512), an estimation is made for the actual user population of NetEase Cloud Music. -> [_music163_RDS.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/music163_RDS.ipynb)

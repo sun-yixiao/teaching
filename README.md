@@ -14,4 +14,6 @@ This repository is designed to gather the code I wrote as a teaching assistant (
 
 - **Color Analysis**: I replicated the research methodology of Tager et al. [(2021)](https://doi.org/10.1002/col.22638), demonstrating how to convert an RGB image into an HSV image based on the Munsell Color System and analyzing the proportion of specific color type pixels within the entire image. -> [Color_Analysis.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Color_Analysis.ipynb)
 
+- **Audio Analysis**: I analyzed the audio for tempo and loudness using the librosa package. -> [Audio_Analysis.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Audio_Analysis.ipynb)
+
 - **Random Digit Search (RDS)**: Following the approach of Zhu et al. [(2011)](https://doi.org/10.1177/0894439310382512), an estimation is made for the actual user population of NetEase Cloud Music. -> [_music163_RDS.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/music163_RDS.ipynb)
